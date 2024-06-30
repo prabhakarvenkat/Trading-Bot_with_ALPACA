@@ -1,0 +1,276 @@
+2024-06-30 21:48:04,726: root: INFO: MLTrader : Executing the initialize lifecycle method
+2024-06-30 21:48:07,656: root: INFO: Current backtesting datetime 2023-12-15 08:30:00-05:00
+2024-06-30 21:48:07,658: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-06-30 21:48:07,660: root: INFO: Current backtesting datetime 2023-12-15 09:30:00-05:00
+2024-06-30 21:48:07,660: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-06-30 21:48:07,662: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-06-30 21:48:07[0m
+2024-06-30 21:48:07,663: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:07,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,889: root: INFO: [32mNew market order of | 10 SPY buy | at price $563.3879882812499 of class bracket with status unprocessed was submitted.[0m
+2024-06-30 21:48:08,896: root: INFO: [34mMLTrader : Trading iteration ended at 2024-06-30 21:48:08[0m
+2024-06-30 21:48:08,896: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,896: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,897: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,898: root: INFO: market order of | 10 SPY buy | at price $563.3879882812499 of class bracket with status new was sent to broker backtesting
+2024-06-30 21:48:08,898: root: INFO: market order of | 10 SPY buy | at price $563.3879882812499 of class bracket with status new was sent to broker backtesting
+2024-06-30 21:48:08,898: root: INFO: [32mFilled Transaction: buy 10 of SPY at 469.48999023 USD per share[0m
+2024-06-30 21:48:08,898: root: INFO: market order of | 10 SPY buy | at price $563.3879882812499 of class bracket with status new was filled
+2024-06-30 21:48:08,908: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-06-30 21:48:08,909: root: INFO: Current backtesting datetime 2023-12-15 16:00:00-05:00
+2024-06-30 21:48:08,911: root: INFO: Current backtesting datetime 2023-12-16 09:30:00-05:00
+2024-06-30 21:48:08,915: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-06-30 21:48:08,915: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,915: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,916: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,917: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,917: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,918: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,920: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,920: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,921: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,921: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,922: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,927: root: INFO: Current backtesting datetime 2023-12-16 09:29:00-05:00
+2024-06-30 21:48:08,929: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,929: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,930: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,932: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,932: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,933: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,935: root: INFO: Current backtesting datetime 2023-12-16 09:29:00-05:00
+2024-06-30 21:48:08,935: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-06-30 21:48:08,935: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,935: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,936: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,937: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,937: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,938: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,941: root: INFO: Current backtesting datetime 2023-12-18 08:30:00-05:00
+2024-06-30 21:48:08,942: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,944: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,946: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-06-30 21:48:08,946: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,946: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,948: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,948: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,948: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,949: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,952: root: INFO: Current backtesting datetime 2023-12-18 09:30:00-05:00
+2024-06-30 21:48:08,952: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-06-30 21:48:08,955: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-06-30 21:48:08[0m
+2024-06-30 21:48:08,957: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,958: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,959: root: INFO: [34mMLTrader : Trading iteration ended at 2024-06-30 21:48:08[0m
+2024-06-30 21:48:08,959: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,959: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,961: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,961: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,961: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,962: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,965: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-06-30 21:48:08,966: root: INFO: Current backtesting datetime 2023-12-18 16:00:00-05:00
+2024-06-30 21:48:08,967: root: INFO: Current backtesting datetime 2023-12-19 09:30:00-05:00
+2024-06-30 21:48:08,969: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-06-30 21:48:08[0m
+2024-06-30 21:48:08,969: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,971: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,971: root: INFO: [34mMLTrader : Trading iteration ended at 2024-06-30 21:48:08[0m
+2024-06-30 21:48:08,971: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,973: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,974: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,975: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,975: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,976: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,977: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-06-30 21:48:08,979: root: INFO: Current backtesting datetime 2023-12-19 16:00:00-05:00
+2024-06-30 21:48:08,979: root: INFO: Current backtesting datetime 2023-12-20 09:30:00-05:00
+2024-06-30 21:48:08,985: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-06-30 21:48:08[0m
+2024-06-30 21:48:08,986: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,989: root: INFO: [34mMLTrader : Trading iteration ended at 2024-06-30 21:48:08[0m
+2024-06-30 21:48:08,989: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,989: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,990: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,992: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:08,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,993: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:08,994: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-06-30 21:48:08,997: root: INFO: Current backtesting datetime 2023-12-20 16:00:00-05:00
+2024-06-30 21:48:08,997: root: INFO: Current backtesting datetime 2023-12-21 09:30:00-05:00
+2024-06-30 21:48:09,000: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-06-30 21:48:08[0m
+2024-06-30 21:48:09,000: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,001: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,002: root: INFO: [34mMLTrader : Trading iteration ended at 2024-06-30 21:48:09[0m
+2024-06-30 21:48:09,002: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,002: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,004: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,004: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,005: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,008: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-06-30 21:48:09,010: root: INFO: Current backtesting datetime 2023-12-21 16:00:00-05:00
+2024-06-30 21:48:09,010: root: INFO: Current backtesting datetime 2023-12-22 09:30:00-05:00
+2024-06-30 21:48:09,015: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-06-30 21:48:09[0m
+2024-06-30 21:48:09,015: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,018: root: INFO: [34mMLTrader : Trading iteration ended at 2024-06-30 21:48:09[0m
+2024-06-30 21:48:09,018: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,019: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,020: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,020: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,021: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,024: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-06-30 21:48:09,026: root: INFO: Current backtesting datetime 2023-12-22 16:00:00-05:00
+2024-06-30 21:48:09,027: root: INFO: Current backtesting datetime 2023-12-23 09:30:00-05:00
+2024-06-30 21:48:09,029: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-06-30 21:48:09,029: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,029: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,030: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,031: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,031: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,033: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,035: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,035: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,036: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,036: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,037: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,037: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,040: root: INFO: Current backtesting datetime 2023-12-23 09:29:00-05:00
+2024-06-30 21:48:09,042: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,042: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,043: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,043: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,043: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,044: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,046: root: INFO: Current backtesting datetime 2023-12-23 09:29:00-05:00
+2024-06-30 21:48:09,047: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-06-30 21:48:09,048: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,048: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,050: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,050: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,050: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,051: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,054: root: INFO: Current backtesting datetime 2023-12-26 08:30:00-05:00
+2024-06-30 21:48:09,055: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,057: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,059: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-06-30 21:48:09,059: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,059: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,060: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,060: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,060: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,062: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,065: root: INFO: Current backtesting datetime 2023-12-26 09:30:00-05:00
+2024-06-30 21:48:09,065: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-06-30 21:48:09,069: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-06-30 21:48:09[0m
+2024-06-30 21:48:09,069: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,071: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,071: root: INFO: [34mMLTrader : Trading iteration ended at 2024-06-30 21:48:09[0m
+2024-06-30 21:48:09,071: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,071: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,072: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,073: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,073: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,074: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,075: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-06-30 21:48:09,077: root: INFO: Current backtesting datetime 2023-12-26 16:00:00-05:00
+2024-06-30 21:48:09,077: root: INFO: Current backtesting datetime 2023-12-27 09:30:00-05:00
+2024-06-30 21:48:09,081: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-06-30 21:48:09[0m
+2024-06-30 21:48:09,081: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,082: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,082: root: INFO: [34mMLTrader : Trading iteration ended at 2024-06-30 21:48:09[0m
+2024-06-30 21:48:09,082: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,082: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,084: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,085: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,085: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,086: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,088: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-06-30 21:48:09,089: root: INFO: Current backtesting datetime 2023-12-27 16:00:00-05:00
+2024-06-30 21:48:09,090: root: INFO: Current backtesting datetime 2023-12-28 09:30:00-05:00
+2024-06-30 21:48:09,094: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-06-30 21:48:09[0m
+2024-06-30 21:48:09,094: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,095: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,096: root: INFO: [34mMLTrader : Trading iteration ended at 2024-06-30 21:48:09[0m
+2024-06-30 21:48:09,096: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,096: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,099: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,099: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,099: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,100: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,102: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-06-30 21:48:09,109: root: INFO: Current backtesting datetime 2023-12-28 16:00:00-05:00
+2024-06-30 21:48:09,109: root: INFO: Current backtesting datetime 2023-12-29 09:30:00-05:00
+2024-06-30 21:48:09,111: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-06-30 21:48:09[0m
+2024-06-30 21:48:09,112: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,114: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,115: root: INFO: [34mMLTrader : Trading iteration ended at 2024-06-30 21:48:09[0m
+2024-06-30 21:48:09,115: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,115: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,117: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,118: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,118: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,119: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,121: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-06-30 21:48:09,124: root: INFO: Current backtesting datetime 2023-12-29 16:00:00-05:00
+2024-06-30 21:48:09,125: root: INFO: Current backtesting datetime 2023-12-30 09:30:00-05:00
+2024-06-30 21:48:09,127: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-06-30 21:48:09,127: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,127: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,128: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,128: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,128: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,129: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,132: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,133: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,134: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,134: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,134: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,135: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,137: root: INFO: Current backtesting datetime 2023-12-30 09:29:00-05:00
+2024-06-30 21:48:09,138: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,138: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,140: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,140: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,141: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,142: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,144: root: INFO: Current backtesting datetime 2023-12-30 09:29:00-05:00
+2024-06-30 21:48:09,144: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-06-30 21:48:09,144: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,144: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,145: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,145: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,145: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,149: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,152: root: INFO: Current backtesting datetime 2024-01-02 08:30:00-05:00
+2024-06-30 21:48:09,153: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,154: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,156: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-06-30 21:48:09,156: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,157: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,159: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,159: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,159: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,161: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,162: root: INFO: Current backtesting datetime 2024-01-02 09:30:00-05:00
+2024-06-30 21:48:09,163: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-06-30 21:48:09,165: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,165: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,167: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,168: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,168: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,170: root: INFO: Current backtesting datetime 2024-01-02 15:59:00-05:00
+2024-06-30 21:48:09,172: root: INFO: MLTrader : Executing the before_market_closes lifecycle method
+2024-06-30 21:48:09,172: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,172: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,174: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,175: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-06-30 21:48:09,175: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,176: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-06-30 21:48:09,178: root: INFO: Current backtesting datetime 2024-01-02 16:00:00-05:00
+2024-06-30 21:48:09,178: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-06-30 21:48:09,178: root: INFO: MLTrader : Executing the on_strategy_end lifecycle method
+2024-06-30 21:48:09,626: root: INFO: Backtesting finished
+2024-06-30 21:48:17,604: backtest_stats: INFO: Backtest took 0:00:12.881778 for a speed of 0.000
